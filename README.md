@@ -6,7 +6,7 @@ Projet Arduino d'automatisation de culture de champignons
 - Arduino UNO R4 WiFi + Base Shield v2.1 (Seeed Studio)
 - Temperature & Humidity Sensor pro v1.3 Grove (Seeed Studio)
 - Grove Relay (Seeed Studio)
-- Grove 6 positions DIP Switch (Seeed Studio)
+- ~~Grove 6 positions DIP Switch (Seeed Studio)~~ -> LIBRAIRIE NON COMPATIBLE avec Uno R4
 - Grove OLED Yellow&Blue Display 0.96 (Seeed Studio)
 ## Partie Culture
 - Chambre de culture 120x60x180cm
